@@ -1,0 +1,26 @@
+body {
+    background-color: #98FB98;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.img_404 {
+  display: block;
+  margin: auto;
+  width: 50%;
+  
+}
+
+.back_button {
+    background-color: goldenrod;
+    display: block; 
+    margin-top: 20px;
+    margin-left: auto; 
+    margin-right: auto;
+    border-radius: 8px;
+    
+}
